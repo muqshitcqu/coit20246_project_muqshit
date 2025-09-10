@@ -27,3 +27,12 @@
 
 ---
 
+## Commit Strategy  
+- Commits reflect actual contributions (no batching everything last minute).  
+- Example commit messages:  
+  - `"Add 4.1 assumptions for Sydney HQ and Newcastle"`  
+  - `"Add network diagram (draw.io + PNG export)"`  
+  - `"Finalise Wi-Fi design and IP addressing scheme"`  
+
+---
+
