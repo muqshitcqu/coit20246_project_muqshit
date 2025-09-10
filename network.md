@@ -28,7 +28,7 @@ The design uses a **hub-and-spoke** model with **Sydney HQ** as the hub. Each br
 - Export (PNG): `network_sydney_hq_newcastle.png`
 ![Network Design (Sydney HQ + Newcastle Branch)](images/network_sydney_hq_newcastle.png)
 
-### 4.1.2.3 Key design decisions (plain-English justifications)
+### 4.1.2.3 Key design decisions
 - **Simple two-tier LAN** (core + access) keeps latency low and is easy to manage.
 - **PoE access switching** powers Wi-Fi APs and VoIP phones without extra injectors.
 - **Site-to-site VPN** secures inter-site traffic across the public Internet without MPLS cost.
