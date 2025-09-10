@@ -36,3 +36,6 @@
 
 ---
 
+## Reflection Note
+Although solo, the plan simulates group best practice by documenting schedule, communication, and commit behaviour.  
+This ensures professionalism and aligns with project requirements.
