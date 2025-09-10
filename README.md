@@ -26,7 +26,9 @@ The submission includes:
 │   └─ network_sydney_hq_newcastle.drawio  
 └─ images/  
     └─ network_sydney_hq_newcastle.png  
+```
 
+---
 
 ## Notes
 - All files are written in **Markdown** and exported as PDFs for submission.  
