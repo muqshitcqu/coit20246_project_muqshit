@@ -5,7 +5,7 @@
 
 ## 4.1.1 Assumptions
 - **Headquarters city**: Sydney (also my study campus), acting as the administrative and ICT hub for Truelec. 65 staff across project management, marketing, leadership and ICT.
-- **Branch cities**: Perth, Canberra and Newcastle (design below focuses on **Newcastle** as the chosen branch). A new location in **Melbourne** is planned but out of scope for Part 1.
+- **Branch cities**: Perth, Canberra and Newcastle (design below focuses on **Newcastle** as the chosen branch). A new location in **Newcastle** is planned but out of scope for Part 1.
 - **Service posture**: Most core services (web, HR, accounting, CRM, booking app) are hosted at HQ; branches rely on HQ over secure WAN.
 - **Design philosophy**: Keep components covered in-unit, prioritise availability and straightforward justification; avoid exotic features beyond unit scope.
 - **WAN**: Commercial business Internet at each site with static IPv4 and site-to-site VPN between sites.
