@@ -26,7 +26,7 @@ The design uses a **hub-and-spoke** model with **Sydney HQ** as the hub. Each br
 ### 4.1.2.2 Diagram files
 - Source (draw.io): `network_sydney_hq_newcastle.drawio`
 - Export (PNG): `network_sydney_hq_newcastle.png`
-![Sydney HQ + Newcastle Branch](images/network_sydney_hq_newcastle.png)
+![Network Design (Sydney HQ + Newcastle Branch)](images/network_sydney_hq_newcastle.png)
 
 ### 4.1.2.3 Key design decisions (plain-English justifications)
 - **Simple two-tier LAN** (core + access) keeps latency low and is easy to manage.
