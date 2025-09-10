@@ -11,3 +11,19 @@
 - Informed my **Unit Coordinator** that I want to make this project individually (Solo) and he approved me as well.
 - Communication cadence: self-check and update commits **After coordination, submitted in one day** All commits.  
 - Tools: **GitHub** repository for version control, local edits in **VS Code**, diagrams via **draw.io**.  
+
+---
+
+## Schedule (Part 1)
+| Week/Day | Task | Status |
+|----------|------|--------|
+| Week 6   | Form group / repo setup | Completed (solo) |
+| Week 6   | Draft assumptions (HQ + branch) | ✅ Done |
+| Week 7   | Create diagram (HQ + Newcastle) | ✅ Done |
+| Week 7   | Write Wi-Fi + IP addressing scheme | ✅ Done |
+| Week 8   | Add hardware list (AUD prices) | ✅ Done |
+| Week 8   | Finalise `network.md` and check formatting | ✅ Done |
+| Week 8   | Export PDFs + ZIP repo for Moodle submission | ✅ Done |
+
+---
+
