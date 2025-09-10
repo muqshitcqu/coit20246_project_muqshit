@@ -26,3 +26,9 @@ The submission includes:
 │   └─ network_sydney_hq_newcastle.drawio  
 └─ images/  
     └─ network_sydney_hq_newcastle.png  
+
+
+## Notes
+- All files are written in **Markdown** and exported as PDFs for submission.  
+- The network diagram was created in **draw.io** and exported as PNG for embedding in the report.  
+- IP addressing follows the rule: **first octet = last two digits of student ID (82)**.  
